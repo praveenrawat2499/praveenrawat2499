@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **praveenrawat2499@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Wee9_W0aeuDrAX1Fm1kULq4uWOWyAIJ6/view?usp=sharing](https://drive.google.com/file/d/1Wee9_W0aeuDrAX1Fm1kULq4uWOWyAIJ6/view?usp=sharing)
+- 📄 Know about my experiences <a href = "https://drive.google.com/file/d/1Wee9_W0aeuDrAX1Fm1kULq4uWOWyAIJ6/view?usp=sharing" alt = "Praveen Resume"> Praveen's Resume </a> 
 
 - ⚡ Fun fact **I am unexperienced developer!**
 
