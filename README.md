@@ -6,20 +6,19 @@
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praveenrawat2499" alt="praveenrawat2499" /></a> </p>
 
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 I’m currently working as a **Associate Product Engineer**
 
 - 🌱 I’m currently learning **Machine Learning, Docker**
 
 - 👨‍💻 All of my projects are available at [https://github.com/praveenrawat2499](https://github.com/praveenrawat2499)
 
-- 💬 Ask me about **Python, Django, Data Analytics, REST API's**
+- 💬 Ask me about **Python, Django, Data Analytics, REST API's, Machine Learning**
 
 - 📫 How to reach me **praveenrawat2499@gmail.com**
 
 - 📄 Know about my experiences 
-<a href = "https://drive.google.com/file/d/1Wee9_W0aeuDrAX1Fm1kULq4uWOWyAIJ6/view?usp=sharing" alt = "Praveen Resume"> Praveen's Resume </a> 
+<a href = "https://drive.google.com/file/d/1ud4bUmmsKztlFYsPBfKVoE1T8pDC6VbY/view?usp=sharing" alt = "Praveen Resume"> Praveen's Resume </a> 
 
-- ⚡ Fun fact **I am unexperienced developer!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
